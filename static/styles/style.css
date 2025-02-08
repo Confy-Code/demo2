@@ -1,0 +1,25 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box; 
+}
+
+body {
+    padding: 2rem;
+    background-color: black;
+    color:whitesmoke;
+    align-items: center;
+    min-height: 108vh;
+    display: flex;
+    gap: 2rem;
+    font-size: 2rem;
+}
+
+input, button{
+    font-size: 2rem;
+    padding: 1rem;
+    border-radius: 10px;
+}
+h1{
+    text-align:start;
+}
