@@ -2,7 +2,6 @@ from dotenv import load_dotenv
 from pprint import pprint
 import requests
 import os
-from pyinputplus import inputStr
 load_dotenv()
 
 def get_city(city='Kigali city'):
